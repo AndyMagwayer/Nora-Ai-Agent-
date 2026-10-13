@@ -1,0 +1,6 @@
+{
+  "name": "Nora — GitHub to Notion Project Sync",
+  "description": "Autonomous synchronization engine that connects GitHub projects with Notion workspaces, generating rich visual project hubs and execution reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
